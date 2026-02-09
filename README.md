@@ -17,7 +17,7 @@ This toolkit provides structured Markdown and draw.io compatible templates. It s
 You can clone the repository to access the templates locally.
 
 ```bash
-git clone https://github.com/<your-github-username>/threat-modeling-templates-product-security.git
+git clone https://github.com/obsTR/threat-modeling-templates-product-security.git
 ```
 
 ## Usage
