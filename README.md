@@ -38,7 +38,6 @@ Use these completed examples as starting points for your own threat models:
 - `examples/cloud_storage_pasta.md` - File storage and sharing (PASTA)
 
 ## Visual Preview
-Add a rendered screenshot of your STRIDE template to help visitors quickly understand format and quality.
 
 ![STRIDE template preview](images/stride-assessment-preview.png)
 
