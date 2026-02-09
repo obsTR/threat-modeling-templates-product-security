@@ -1,0 +1,9 @@
+config:
+  default: true
+  MD004:
+    style: dash
+  MD013: false
+  MD022: false
+  MD032: false
+  MD047: false
+  MD058: false
