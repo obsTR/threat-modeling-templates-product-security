@@ -8,9 +8,9 @@
 This model covers a versioned public REST API used by external partners to access order, catalog, and inventory data.
 
 ## 2. Data Flow
-* **Sources:** Partner systems via HTTPS, API keys/OAuth clients
-* **Destinations:** API gateway, backend microservices, analytics pipeline
-* **Trust Boundaries:** Internet edge, API gateway boundary, service mesh boundary
+- **Sources:** Partner systems via HTTPS, API keys/OAuth clients
+- **Destinations:** API gateway, backend microservices, analytics pipeline
+- **Trust Boundaries:** Internet edge, API gateway boundary, service mesh boundary
 
 ## 3. STRIDE Analysis
 

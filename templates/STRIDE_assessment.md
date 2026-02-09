@@ -8,9 +8,9 @@
 [Briefly describe the feature. Include a link to the architecture diagram or draw.io file.]
 
 ## 2. Data Flow
-* **Sources:** [Where data comes from, e.g., User Input]
-* **Destinations:** [Where data goes, e.g., SQL Database]
-* **Trust Boundaries:** [e.g., Internet vs Internal Network]
+- **Sources:** [Where data comes from, e.g., User Input]
+- **Destinations:** [Where data goes, e.g., SQL Database]
+- **Trust Boundaries:** [e.g., Internet vs Internal Network]
 
 ## 3. STRIDE Analysis
 

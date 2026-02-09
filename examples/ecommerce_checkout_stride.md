@@ -8,9 +8,9 @@
 This model covers checkout for card payments, including cart review, payment tokenization, and order confirmation.
 
 ## 2. Data Flow
-* **Sources:** Customer browser, payment gateway webhook
-* **Destinations:** Checkout API, payment processor, order database, notification service
-* **Trust Boundaries:** Public internet, PCI-scoped payment segment, internal application network
+- **Sources:** Customer browser, payment gateway webhook
+- **Destinations:** Checkout API, payment processor, order database, notification service
+- **Trust Boundaries:** Public internet, PCI-scoped payment segment, internal application network
 
 ## 3. STRIDE Analysis
 

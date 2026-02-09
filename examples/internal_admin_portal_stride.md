@@ -8,9 +8,9 @@
 This model covers an internal admin portal used by support and operations teams to manage users, orders, and feature flags.
 
 ## 2. Data Flow
-* **Sources:** Corporate SSO, support staff actions, internal APIs
-* **Destinations:** Admin API, user profile store, audit log pipeline
-* **Trust Boundaries:** Corporate network, production control plane, privileged admin zone
+- **Sources:** Corporate SSO, support staff actions, internal APIs
+- **Destinations:** Admin API, user profile store, audit log pipeline
+- **Trust Boundaries:** Corporate network, production control plane, privileged admin zone
 
 ## 3. STRIDE Analysis
 

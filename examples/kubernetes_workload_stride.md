@@ -8,9 +8,9 @@
 This model covers CI/CD to Kubernetes, including image build, registry publish, and deployment rollout.
 
 ## 2. Data Flow
-* **Sources:** Git commits, CI runners, container registry events
-* **Destinations:** Artifact registry, Kubernetes API server, runtime clusters
-* **Trust Boundaries:** Developer workstation, CI environment, cluster control plane
+- **Sources:** Git commits, CI runners, container registry events
+- **Destinations:** Artifact registry, Kubernetes API server, runtime clusters
+- **Trust Boundaries:** Developer workstation, CI environment, cluster control plane
 
 ## 3. STRIDE Analysis
 

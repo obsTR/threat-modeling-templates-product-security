@@ -8,9 +8,9 @@
 This model covers customer login for an ecommerce web application using email/password authentication with optional MFA.
 
 ## 2. Data Flow
-* **Sources:** User browser input, identity provider callbacks
-* **Destinations:** Authentication API, user database, audit log service
-* **Trust Boundaries:** Public internet, application VPC, internal database subnet
+- **Sources:** User browser input, identity provider callbacks
+- **Destinations:** Authentication API, user database, audit log service
+- **Trust Boundaries:** Public internet, application VPC, internal database subnet
 
 ## 3. STRIDE Analysis
 
